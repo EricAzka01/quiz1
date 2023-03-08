@@ -45,10 +45,10 @@ export default function Home() {
               <h2>Current Studies: Institute Technology of Sepuluh Nopember</h2>
               </div>
               <div className="cursor-pointer text-4xl flex justify-center gap-10 py-3 text-gray-800 my-5">
-          <AiFillTwitterCircle/>
-          <AiFillLinkedin />
-          <AiFillGithub />
-          <AiFillInstagram />
+              <a href="https://twitter.com/eRRRRRRRiiiccc"><AiFillTwitterCircle /></a> 
+          <a href="https://www.linkedin.com/in/eric-azka-nugroho-804bb8252/"><AiFillLinkedin /></a> 
+          <a href="https://github.com/EricAzka01"><AiFillGithub /></a> 
+          <a href="https://www.instagram.com/eric_azka/"><AiFillInstagram /></a> 
         </div>
             </div>
           </div>
