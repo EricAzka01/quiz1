@@ -40,10 +40,10 @@ export default function Home() {
           <p className="text-medium py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto">This portfolio website is my first project of creating a website using HTML and Tailwind CSS. Enjoy!</p>
         </div>
         <div className="cursor-pointer text-5xl flex justify-center gap-10 py-3 text-gray-800">
-          <AiFillTwitterCircle />
-          <AiFillLinkedin />
-          <AiFillGithub />
-          <AiFillInstagram />
+          <a href="https://twitter.com/eRRRRRRRiiiccc"><AiFillTwitterCircle /></a> 
+          <a href="https://www.linkedin.com/in/eric-azka-nugroho-804bb8252/"><AiFillLinkedin /></a> 
+          <a href="https://github.com/EricAzka01"><AiFillGithub /></a> 
+          <a href="https://www.instagram.com/eric_azka/"><AiFillInstagram /></a> 
         </div>
         <div className="relative mx-auto rounded-full w-80 h-80 mt-12 overflow-hidden">
         <Image src="/Eric.JPG" alt="" layout="fill" objectFit="cover"/>
