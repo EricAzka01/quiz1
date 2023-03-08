@@ -2,7 +2,7 @@ import Head from 'next/head'
 import {BsFillMoonStarsFill} from 'react-icons/bs';
 import {AiFillTwitterCircle, AiFillLinkedin, AiFillGithub, AiFillInstagram} from "react-icons/ai";
 import {GiSoccerBall} from "react-icons/gi";
-import {IoMdCodeWorking} from "react-icons/Io";
+import {IoMdCodeWorking} from "react-icons/io";
 import { BsPhoneLandscapeFill } from 'react-icons/bs';
 import Image from 'next/image';
 //import Eric from '../public/Eric.JPG';
